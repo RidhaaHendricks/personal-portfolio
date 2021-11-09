@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.331acce3.chunk.css",
+    "main.js": "/personal-portfolio/static/js/main.33811cf7.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.33811cf7.chunk.js.map",
+    "runtime-main.js": "/personal-portfolio/static/js/runtime-main.fd11a133.js",
+    "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.fd11a133.js.map",
+    "static/js/2.489f357b.chunk.js": "/personal-portfolio/static/js/2.489f357b.chunk.js",
+    "static/js/2.489f357b.chunk.js.map": "/personal-portfolio/static/js/2.489f357b.chunk.js.map",
+    "index.html": "/personal-portfolio/index.html",
+    "static/css/main.331acce3.chunk.css.map": "/personal-portfolio/static/css/main.331acce3.chunk.css.map",
+    "static/js/2.489f357b.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.489f357b.chunk.js.LICENSE.txt",
+    "static/media/Netcampus Certificate - PL-100-Ridhaa Hendricks.416ba218.pdf": "/personal-portfolio/static/media/Netcampus Certificate - PL-100-Ridhaa Hendricks.416ba218.pdf",
+    "static/media/Netcampus Certificate - PL-200-Ridhaa Hendricks.9b012b91.pdf": "/personal-portfolio/static/media/Netcampus Certificate - PL-200-Ridhaa Hendricks.9b012b91.pdf",
+    "static/media/Netcampus Certificate - PL-900-Ridhaa Hendricks.a8f677cc.pdf": "/personal-portfolio/static/media/Netcampus Certificate - PL-900-Ridhaa Hendricks.a8f677cc.pdf",
+    "static/media/download.cc54454f.png": "/personal-portfolio/static/media/download.cc54454f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd11a133.js",
+    "static/js/2.489f357b.chunk.js",
+    "static/css/main.331acce3.chunk.css",
+    "static/js/main.33811cf7.chunk.js"
+  ]
+}
