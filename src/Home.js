@@ -18,11 +18,11 @@ const Home = () => {
                 <div className="intro">
                     <p>
                         I have always been fascinated with technology since a young age. Finding an interest in becoming a developer was
-                        an easy decision and this gave me a great knowledge and understanding about the concepts of programming.
+                        an easy decision and this gave me in depth knowledge and understanding about the concepts of programming.
                     </p>
                     <p>
-                        Always willing to learn and improve my skills in all aspects of being a developer. I am a Test Automation Developer, however I have a
-                        great fondness with web development where I am currently learning MERN stack.
+                        Always adapting and improving my skills in all aspects of being a developer. I am a Test Automation Developer, furthermore, tenacious
+                        passion towards web development where I am currently sharpening my skills learning MERN stack.
                     </p>
                 </div>
             </div> { /* end of about-me */}
@@ -43,9 +43,9 @@ const Home = () => {
                     </p>
                     <h2>Additional Practices</h2>
                     <p>
-                        I am currently learning MongoDB, ExpressJS, ReactJS, and NodeJS on the side,
-                        as I have a great fondness for web development and would like to pursue a career in web development.
-                        I am building a practice website using MERN stack, I have a current incomplete e-commerce website on GitHub.
+                        I am currently studying and applying MongoDB, ExpressJS, ReactJS, and NodeJS while currently being employed. 
+                        Additionally, I have an appetite for web development and potentially looking to pursue this further.
+                        Moreover, currently building practice websites using MERN stack, which can be found on GitHub.
                     </p>
                 </div>
             </div> { /* end of personal-details */}
