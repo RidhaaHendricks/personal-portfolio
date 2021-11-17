@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.331acce3.chunk.css",
-    "main.js": "/personal-portfolio/static/js/main.bd5072ca.chunk.js",
-    "main.js.map": "/personal-portfolio/static/js/main.bd5072ca.chunk.js.map",
+    "main.js": "/personal-portfolio/static/js/main.657470b7.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.657470b7.chunk.js.map",
     "runtime-main.js": "/personal-portfolio/static/js/runtime-main.fd11a133.js",
     "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.fd11a133.js.map",
-    "static/js/2.41d33e35.chunk.js": "/personal-portfolio/static/js/2.41d33e35.chunk.js",
-    "static/js/2.41d33e35.chunk.js.map": "/personal-portfolio/static/js/2.41d33e35.chunk.js.map",
+    "static/js/2.8048dfc0.chunk.js": "/personal-portfolio/static/js/2.8048dfc0.chunk.js",
+    "static/js/2.8048dfc0.chunk.js.map": "/personal-portfolio/static/js/2.8048dfc0.chunk.js.map",
     "index.html": "/personal-portfolio/index.html",
     "static/css/main.331acce3.chunk.css.map": "/personal-portfolio/static/css/main.331acce3.chunk.css.map",
-    "static/js/2.41d33e35.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.41d33e35.chunk.js.LICENSE.txt",
+    "static/js/2.8048dfc0.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.8048dfc0.chunk.js.LICENSE.txt",
     "static/media/Netcampus Certificate - PL-100-Ridhaa Hendricks.416ba218.pdf": "/personal-portfolio/static/media/Netcampus Certificate - PL-100-Ridhaa Hendricks.416ba218.pdf",
     "static/media/Netcampus Certificate - PL-200-Ridhaa Hendricks.9b012b91.pdf": "/personal-portfolio/static/media/Netcampus Certificate - PL-200-Ridhaa Hendricks.9b012b91.pdf",
     "static/media/Netcampus Certificate - PL-900-Ridhaa Hendricks.a8f677cc.pdf": "/personal-portfolio/static/media/Netcampus Certificate - PL-900-Ridhaa Hendricks.a8f677cc.pdf",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fd11a133.js",
-    "static/js/2.41d33e35.chunk.js",
+    "static/js/2.8048dfc0.chunk.js",
     "static/css/main.331acce3.chunk.css",
-    "static/js/main.bd5072ca.chunk.js"
+    "static/js/main.657470b7.chunk.js"
   ]
 }
