@@ -32,18 +32,18 @@ const Home = () => {
                 <div className="details">
                     <h2>Employment</h2>
                     <p>
-                        I am currently employed at MiX Telematics as a Learner: Test Automation Developer,
-                        where I use Java with Selenium to run, debug, fix, and create automation tests.
+                        Employed at MiX Telematics as a Learner: Test Automation Developer,
+                        where I develop with Java and Selenium to run, debug, fix, and create automation tests.
                     </p>
                     <h2>Academics</h2>
                     <p>
-                        I received top achiever for my final year in Information Technology Course at False Bay College.
-                        I have graduated at Cape Peninsula University of Technology where I completed a
-                        Diploma in Information and Communications Technology Application Development.
+                        I received top achiever for my final year in Information Technology Course at False Bay College and
+                        graduated at Cape Peninsula University of Technology where I completed a
+                        Diploma in Information and Communications Technology in Application Development.
                     </p>
                     <h2>Additional Practices</h2>
                     <p>
-                        I am currently studying and applying MongoDB, ExpressJS, ReactJS, and NodeJS while currently being employed. 
+                        Currently study and apply MongoDB, ExpressJS, ReactJS, and NodeJS alongside being employed. 
                         Additionally, I have an appetite for web development and potentially looking to pursue this further.
                         Moreover, currently building practice websites using MERN stack, which can be found on GitHub.
                     </p>
