@@ -37,9 +37,9 @@ const Home = () => {
                     </p>
                     <h2>Academics</h2>
                     <p>
-                        I received top achiever for my final year in Information Technology Course at False Bay College and
-                        graduated at Cape Peninsula University of Technology where I completed a
-                        Diploma in Information and Communications Technology in Application Development.
+                        Received top achiever for my final year in Information Technology Course at False Bay College and
+                        graduated at Cape Peninsula University of Technology where I completed a Diploma in 
+                        Information and Communications Technology in Application Development.
                     </p>
                     <h2>Additional Practices</h2>
                     <p>
